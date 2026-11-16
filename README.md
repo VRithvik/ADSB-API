@@ -112,8 +112,8 @@ The polygon coordinates are supplied as longitude and latitude pairs.
 | Parameter | Description | Required |
 |---|---|---|
 | key | API authentication key | Yes |
-| start | Starting date and time | No |
-| end | Ending date and time | No |
+| start | Starting date and time | Yes |
+| end | Ending date and time | Yes |
 
 **Description:**
 
