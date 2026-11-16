@@ -40,16 +40,6 @@ The API uses the following MySQL table:
 | track | decimal(10,3) |
 | nav_heading | decimal(10,2) |
 
-## API Authentication
-
-All API requests must include a key parameter.
-
-The valid API key is:
-
-`123`
-
-Requests without the correct key will not be fulfilled.
-
 ## API Methods
 
 All three methods use the HTTP GET method.
